@@ -15,3 +15,4 @@ UICollectionView自定义布局
         需要实现collectionViewContentSize方法，实现滚动
         
         
+ ![image](https://github.com/linchaosheng/UICollectionView-/blob/master/uicollectionview.gif)
